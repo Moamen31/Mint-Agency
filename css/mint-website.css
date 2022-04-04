@@ -206,6 +206,8 @@ header .container nav ul::after{
 }
 .work .container .links .shuffle ul{
     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 .work .container .links .shuffle ul li{
     padding: 8px 20px;
